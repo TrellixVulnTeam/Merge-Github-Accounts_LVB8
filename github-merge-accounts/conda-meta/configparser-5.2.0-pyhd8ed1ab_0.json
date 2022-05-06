@@ -1,0 +1,141 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "/Users/matsuruhoshi/opt/anaconda3/pkgs/configparser-5.2.0-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "lib/python3.10/site-packages/backports/configparser/__init__.py",
+    "lib/python3.10/site-packages/backports/configparser/compat.py",
+    "lib/python3.10/site-packages/configparser-5.2.0.dist-info/INSTALLER",
+    "lib/python3.10/site-packages/configparser-5.2.0.dist-info/LICENSE",
+    "lib/python3.10/site-packages/configparser-5.2.0.dist-info/METADATA",
+    "lib/python3.10/site-packages/configparser-5.2.0.dist-info/RECORD",
+    "lib/python3.10/site-packages/configparser-5.2.0.dist-info/REQUESTED",
+    "lib/python3.10/site-packages/configparser-5.2.0.dist-info/WHEEL",
+    "lib/python3.10/site-packages/configparser-5.2.0.dist-info/direct_url.json",
+    "lib/python3.10/site-packages/configparser-5.2.0.dist-info/top_level.txt",
+    "lib/python3.10/site-packages/configparser.py",
+    "lib/python3.10/site-packages/backports/configparser/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/backports/configparser/__pycache__/compat.cpython-310.pyc",
+    "lib/python3.10/site-packages/__pycache__/configparser.cpython-310.pyc"
+  ],
+  "fn": "configparser-5.2.0-pyhd8ed1ab_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/matsuruhoshi/opt/anaconda3/pkgs/configparser-5.2.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "ca9cb68687bb3c9406943ac0a5345f1f",
+  "name": "configparser",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/matsuruhoshi/opt/anaconda3/pkgs/configparser-5.2.0-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/backports/configparser/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "ce38007bd947eff7130b2b7b7be8b27f28b4d3b3df68c0153e12428ccfd350fb",
+        "sha256_in_prefix": "ce38007bd947eff7130b2b7b7be8b27f28b4d3b3df68c0153e12428ccfd350fb",
+        "size_in_bytes": 54655
+      },
+      {
+        "_path": "site-packages/backports/configparser/compat.py",
+        "path_type": "hardlink",
+        "sha256": "677168e8023805f1517cd77d163f27d58c36356dabd75dae4131449c5eb9f4b7",
+        "sha256_in_prefix": "677168e8023805f1517cd77d163f27d58c36356dabd75dae4131449c5eb9f4b7",
+        "size_in_bytes": 404
+      },
+      {
+        "_path": "site-packages/configparser-5.2.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/configparser-5.2.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "db3f0246b1f9278f15845b99fec478b8b506eb76487993722f8c6e254285faf8",
+        "sha256_in_prefix": "db3f0246b1f9278f15845b99fec478b8b506eb76487993722f8c6e254285faf8",
+        "size_in_bytes": 1050
+      },
+      {
+        "_path": "site-packages/configparser-5.2.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "e0c7838a912ba49207eb5670bba050f5ff79d50bb91d183944a16edcb60d65c9",
+        "sha256_in_prefix": "e0c7838a912ba49207eb5670bba050f5ff79d50bb91d183944a16edcb60d65c9",
+        "size_in_bytes": 11053
+      },
+      {
+        "_path": "site-packages/configparser-5.2.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "495585d1573c88401ec52f451b9226a6d1cca2b3dfd131ca4cb14fbfc659642f",
+        "sha256_in_prefix": "495585d1573c88401ec52f451b9226a6d1cca2b3dfd131ca4cb14fbfc659642f",
+        "size_in_bytes": 1127
+      },
+      {
+        "_path": "site-packages/configparser-5.2.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/configparser-5.2.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "7b0c04b9e8a8d42d977874ef4f5ee7f1d6542603afc82582b7459534b0a53fda",
+        "sha256_in_prefix": "7b0c04b9e8a8d42d977874ef4f5ee7f1d6542603afc82582b7459534b0a53fda",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/configparser-5.2.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "aaab03a9699717d04e1ecb452885660f774ffd6cd04606bf40a667156d73e318",
+        "sha256_in_prefix": "aaab03a9699717d04e1ecb452885660f774ffd6cd04606bf40a667156d73e318",
+        "size_in_bytes": 108
+      },
+      {
+        "_path": "site-packages/configparser-5.2.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "988b3c81a8ddedcbc45a1565bafe2eea871a1f0fd327daceae9919105bfeec77",
+        "sha256_in_prefix": "988b3c81a8ddedcbc45a1565bafe2eea871a1f0fd327daceae9919105bfeec77",
+        "size_in_bytes": 23
+      },
+      {
+        "_path": "site-packages/configparser.py",
+        "path_type": "hardlink",
+        "sha256": "e1500312cc02c33cbf443560be37b70666610fa8b0a37938124519720ccb0f83",
+        "sha256_in_prefix": "e1500312cc02c33cbf443560be37b70666610fa8b0a37938124519720ccb0f83",
+        "size_in_bytes": 1546
+      },
+      {
+        "_path": "lib/python3.10/site-packages/backports/configparser/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/backports/configparser/__pycache__/compat.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/__pycache__/configparser.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "conda-forge/noarch::configparser==5.2.0=pyhd8ed1ab_0",
+  "sha256": "4e9c89fdfde4cc0eb6cc2a7bd9f1e98af02ed79f2f9afbca24dce834b2b5672d",
+  "size": 21774,
+  "subdir": "noarch",
+  "timestamp": 1638573172968,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/configparser-5.2.0-pyhd8ed1ab_0.tar.bz2",
+  "version": "5.2.0"
+}

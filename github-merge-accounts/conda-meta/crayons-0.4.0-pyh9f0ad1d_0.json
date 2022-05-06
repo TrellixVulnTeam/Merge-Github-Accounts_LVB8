@@ -1,0 +1,116 @@
+{
+  "build": "pyh9f0ad1d_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "colorama",
+    "python"
+  ],
+  "extracted_package_dir": "/Users/matsuruhoshi/opt/anaconda3/pkgs/crayons-0.4.0-pyh9f0ad1d_0",
+  "features": "",
+  "files": [
+    "lib/python3.10/site-packages/crayons-0.4.0.dist-info/INSTALLER",
+    "lib/python3.10/site-packages/crayons-0.4.0.dist-info/LICENSE",
+    "lib/python3.10/site-packages/crayons-0.4.0.dist-info/METADATA",
+    "lib/python3.10/site-packages/crayons-0.4.0.dist-info/RECORD",
+    "lib/python3.10/site-packages/crayons-0.4.0.dist-info/REQUESTED",
+    "lib/python3.10/site-packages/crayons-0.4.0.dist-info/WHEEL",
+    "lib/python3.10/site-packages/crayons-0.4.0.dist-info/direct_url.json",
+    "lib/python3.10/site-packages/crayons-0.4.0.dist-info/top_level.txt",
+    "lib/python3.10/site-packages/crayons.py",
+    "lib/python3.10/site-packages/__pycache__/crayons.cpython-310.pyc"
+  ],
+  "fn": "crayons-0.4.0-pyh9f0ad1d_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/matsuruhoshi/opt/anaconda3/pkgs/crayons-0.4.0-pyh9f0ad1d_0",
+    "type": 1
+  },
+  "md5": "d0df2a57f06649501b2795cac250f633",
+  "name": "crayons",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/matsuruhoshi/opt/anaconda3/pkgs/crayons-0.4.0-pyh9f0ad1d_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/crayons-0.4.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/crayons-0.4.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "7deeb137f78337fd1e2e3966a7896821c6ebff244200d009d3f4157246b5a457",
+        "sha256_in_prefix": "7deeb137f78337fd1e2e3966a7896821c6ebff244200d009d3f4157246b5a457",
+        "size_in_bytes": 1106
+      },
+      {
+        "_path": "site-packages/crayons-0.4.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "2ef5fe9a6a445aeab93c3820caf3dd82378f6c14868cfe84fc5a517dd9790eec",
+        "sha256_in_prefix": "2ef5fe9a6a445aeab93c3820caf3dd82378f6c14868cfe84fc5a517dd9790eec",
+        "size_in_bytes": 2798
+      },
+      {
+        "_path": "site-packages/crayons-0.4.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "4cd8b362e3a58da204c5294490553b93a584f5e981bb4efe20040a50e4985c97",
+        "sha256_in_prefix": "4cd8b362e3a58da204c5294490553b93a584f5e981bb4efe20040a50e4985c97",
+        "size_in_bytes": 769
+      },
+      {
+        "_path": "site-packages/crayons-0.4.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/crayons-0.4.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "00329ec9a1b2285e43c01344d2c444e69bd6f9b4a414c25f06e873677adc78fe",
+        "sha256_in_prefix": "00329ec9a1b2285e43c01344d2c444e69bd6f9b4a414c25f06e873677adc78fe",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/crayons-0.4.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "ef14682480ce872d89b23ae7f92ed1fcb683cbb57c21b0974c94707967e58fbf",
+        "sha256_in_prefix": "ef14682480ce872d89b23ae7f92ed1fcb683cbb57c21b0974c94707967e58fbf",
+        "size_in_bytes": 103
+      },
+      {
+        "_path": "site-packages/crayons-0.4.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "1ded1cd6c06706c65ce8422d9fd6104e28b81db5aa892e8652b31ba2fe5ecd3e",
+        "sha256_in_prefix": "1ded1cd6c06706c65ce8422d9fd6104e28b81db5aa892e8652b31ba2fe5ecd3e",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "site-packages/crayons.py",
+        "path_type": "hardlink",
+        "sha256": "8550c630ea88a2f18bf8cd7cb0a7ac5a633b80271b0b987b29d29cd78d5d6640",
+        "sha256_in_prefix": "8550c630ea88a2f18bf8cd7cb0a7ac5a633b80271b0b987b29d29cd78d5d6640",
+        "size_in_bytes": 4603
+      },
+      {
+        "_path": "lib/python3.10/site-packages/__pycache__/crayons.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "conda-forge/noarch::crayons==0.4.0=pyh9f0ad1d_0",
+  "sha256": "88e55ba231652a09cd6ffa23d645d75e2db6772065807ca97d6b4abc3e4a2183",
+  "size": 8185,
+  "subdir": "noarch",
+  "timestamp": 1598549783054,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/crayons-0.4.0-pyh9f0ad1d_0.tar.bz2",
+  "version": "0.4.0"
+}
